@@ -24,3 +24,4 @@ There are many open source alternatives to build virtual reality application. On
   - HFS: http://www.rejetto.com/hfs/ or any other server.
   
   Tested with Mozilla Firefox 65.0.1 and Google Chrome 72.0.3626.119
+  YOu can test it on https://loadingaz.github.io/mediaLabs2/aframe/
